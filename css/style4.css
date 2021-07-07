@@ -1,0 +1,60 @@
+h1{
+    position: relative;
+    top: 50px;
+    padding-bottom: 50px;
+    color: white
+}
+#re_homepage:hover{
+    background-color: #f5001d
+}  
+.hp{
+    width: 450px;
+    height: 600px;
+}
+.hp-none{
+    width: 450px;
+    height: 600px;
+} 
+.pic-box{
+    width: 85%;
+    height: 85%
+}
+.pic{
+    width: 100%;
+    height: 100%
+} 
+.hide-line1{
+    display: none
+}
+#more
+{   width: 100px;
+    height: 30px;
+    border: 1px #fcfb7d solid;
+    border-radius: 10px; color: white;
+    background-color: #f5001d;
+}
+.pic-detail{
+    display: none;
+    background-color: #fff4ba; width:85%;
+    height: 85% 
+}
+.soup-detail{
+    position: relative;
+    top: 50px;
+    margin-bottom:90px ;
+    font-size: 30px;
+    background-color: white;
+    color: rgba(241,246,20,0.93);
+    border: 2px black dashed;
+    border-radius: 20px
+}
+p{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right:20px;
+    color: black
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
